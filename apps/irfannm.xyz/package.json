@@ -1,9 +1,12 @@
 {
-  "name": "docs",
-  "version": "0.0.0",
+  "name": "irfannm.xyz",
+  "description": "Irfan Nurghiffari Muhajir's personal website & blog",
+  "author": "Irfan Nurghiffari Muhajir",
+  "homepage": "https://irfannm.xyz",
+  "version": "1.0.0",  
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3001",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

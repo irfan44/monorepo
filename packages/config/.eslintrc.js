@@ -20,5 +20,6 @@ module.exports = {
     "no-duplicate-imports": "error",
     "newline-after-var": "error",
     camelcase: "error",
+    'react/jsx-max-depth': [2, { max: 4 }],
   },
 };
